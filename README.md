@@ -1,8 +1,4 @@
-# Scyllaphonia
+# Perfectoinist
+Adds a new rarity called Perfect, which is approximately 2 levels above Heroic.
 
-Removes the boss fight music during the Scylla fight. Instead, the zone background music will play.
-
-## Features
-
-- Prevent shipwrecks.
-
+![image](https://github.com/The-Black-Lodge/JowdayPerfectoinist/assets/7319207/67fbee98-ecb7-4cda-a196-53ae389797b8)
