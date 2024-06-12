@@ -2,5 +2,7 @@
 ---@diagnostic disable
 
 return {
-  enabled = true;
+  PerfectChance = 1
+}, {
+  PerfectChance = "% Chance of Perfect boon. Default: 1, Max: 5"
 }

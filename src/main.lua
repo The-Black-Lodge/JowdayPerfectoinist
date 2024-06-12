@@ -47,7 +47,10 @@ local function on_reload()
     game.Color.BoonPatchPerfect = { 97, 230, 255, 255 }
     game.ScreenData.UpgradeChoice.RarityBackingAnimations.Perfect = "BoonSlotPerfect"
 
+    public.DefaultPerfectChance = 0.01
+
     import 'multipliers.lua'
+    import 'imgui.lua'
 end
 
 -- this allows us to limit certain functions to not be reloaded.

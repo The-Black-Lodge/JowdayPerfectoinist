@@ -15,6 +15,7 @@ SGG_Modding-ENVY = "1.0.0"
 SGG_Modding-Chalk = "2.0.2"
 SGG_Modding-ReLoad = "1.0.1"
 SGG_Modding-ModUtil = "3.1.1"
+Jowday-BoonBuddy = "0.7.0"
 
 [build]
 icon = "./icon.png"

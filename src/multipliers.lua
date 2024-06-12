@@ -89,7 +89,7 @@ game.TraitData.BurnArmorBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.PoseidonWeaponBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
 game.TraitData.PoseidonSpecialBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.PoseidonCastBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
-game.TraitData.PoseidonSprintBlast.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.PoseidonSprintBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.PoseidonManaBoon.RarityLevels.Perfect = { Multiplier = 2.0 }
 game.TraitData.EncounterStartOffenseBuffBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
 game.TraitData.MinorLootBoon.RarityLevels.Perfect = { Multiplier = 2.5 } -- 0.3
