@@ -34,7 +34,7 @@ Check off the *Allow Heroic boons to upgrade to Perfect (Sacrifice)* box and set
 
 ### Give Me All The Power
 The *% Perfect* max is configurable from r2modman. \
-Alternatively - modify the `MaxPerfectChance` value in `Ship/ReturnOfModding/config/Jowday-Perfectoinist.cfg`). \
+Alternatively - modify the `MaxPerfectChance` value in `Ship/ReturnOfModding/config/Jowday-Perfectoinist.cfg`. \
 The original intent was for a max of 10%, but feel free to increase it!
 
 ## You spelled Perfectionist wrong
