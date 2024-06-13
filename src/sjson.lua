@@ -17,7 +17,6 @@ local guiPath = rom.path.combine(rom.paths.Content, 'Game/Animations/GUIAnimatio
 
 -- boon backing
 local perfectBackPath = rom.path.combine(_PLUGIN.guid, 'BoonSlot_Perfect')
-print(perfectBackPath)
 local perfectBack = sjson.to_object({
     Name = "BoonSlotPerfect",
     InheritFrom = "BoonSlotBase",
@@ -29,7 +28,6 @@ end)
 
 -- button backing
 local perfectIconFramePath = rom.path.combine(_PLUGIN.guid, 'perfect')
-print(perfectIconFramePath)
 local perfectIcon = sjson.to_object({
     Name = "Frame_Boon_Menu_Perfect",
     InheritFrom = "Menu_Frame",
