@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Changed
+- make ImGui display consistent with default BoonBuddy stuff
 
 ## [0.0.1] - 2024-06-12
 
