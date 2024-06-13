@@ -7,7 +7,7 @@ function public.drawPerfectPlugin()
 
     rom.ImGui.Text("Perfectoinist")
     rom.ImGui.PushStyleColor(rom.ImGuiCol.Text, 0.62, 1, 1, 1)
-    value, selected = rom.ImGui.SliderInt("% Perfect", config.PerfectChance, 0, config.MaxPerfectChance)
+    value, selected = rom.ImGui.SliderInt("Perfect", config.PerfectChance, 0, config.MaxPerfectChance, '%d%%')
     if selected then
         config.PerfectChance = value
         mod.adjustRarityValues()
