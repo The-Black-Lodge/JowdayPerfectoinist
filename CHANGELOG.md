@@ -1,6 +1,10 @@
 # Changelog
 
 ## [Unreleased]
+## Changed
+- updated multipliers for 6/26 patch
+- remove deprecated boons
+- temp fix for incorrect Heroic multiplier on Grand Caldera
 
 ## [0.0.3] - 2024-06-13
 
