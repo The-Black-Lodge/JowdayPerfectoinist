@@ -30,6 +30,15 @@ game.TraitData.ApolloMissStrikeBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.ApolloCastAreaBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
 game.TraitData.DoubleStrikeChanceBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 
+-- artemis
+game.TraitData.InsideCastCritBoon.RarityLevels.Perfect = { Multiplier = 2.5 }
+game.TraitData.OmegaCastVolleyBoon.RarityLevels.Perfect = { Multiplier = 80 / 30 } -- 10/30
+game.TraitData.HighHealthCritBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.CritBonusBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
+game.TraitData.DashOmegaBuffBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
+game.TraitData.SupportingFireBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.TimedCritVulnerabilityBoon.RarityLevels.Perfect = { Multiplier = 10 / 20 } -- -2/20
+
 -- demeter
 game.TraitData.DemeterWeaponBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.DemeterSpecialBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
@@ -74,6 +83,20 @@ game.TraitData.OmegaHeraProjectileBoon.RarityLevels.Perfect = { Multiplier = 2.0
 game.TraitData.DamageSharePotencyBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.LinkedDeathDamageBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 --game.TraitData.FullManaExBoostBoon.RarityLevels.Perfect = { Multiplier = 3.5 } boon removed 6/26
+
+-- hermes
+game.TraitData.HermesWeaponBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.HermesSpecialBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
+game.TraitData.HexCooldownBuffBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
+game.TraitData.SlowProjectileBoon.RarityLevels.Perfect = { Multiplier = 8 / 3 }
+game.TraitData.MoneyMultiplierBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.DodgeChanceBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.BonusDashBoon.RarityLevels.Perfect = { Multiplier = 6.0 }
+game.TraitData.HermesCastDiscountBoon.RarityLevels.Perfect = { Multiplier = 2.0 }
+game.TraitData.SorcerySpeedBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
+game.TraitData.PerfectDodgeSlowBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.TimedKillBuffBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.SprintShieldBoon.RarityLevels.Perfect = { Multiplier = 6 }
 
 -- hestia
 game.TraitData.HestiaWeaponBoon.RarityLevels.Perfect = { Multiplier = 2.67 } -- 0.33ish

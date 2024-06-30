@@ -3,7 +3,7 @@ Adds a new rarity called Perfect, which is approximately 2 levels above Heroic. 
 ![image](https://github.com/The-Black-Lodge/JowdayPerfectoinist/assets/7319207/3bb01de9-a96d-40f7-97be-4cafc4eb73ae)
 
 Perfect boons have been added for Olympian gods: \
-Aphrodite, Apollo, Demeter, Hephaestus, Hera, Hestia, Poseidon, Zeus
+Aphrodite, Apollo, Artemis, Demeter, Hephaestus, Hera, Hermes, Hestia, Poseidon, Zeus
 ![image](https://github.com/The-Black-Lodge/JowdayPerfectoinist/assets/7319207/0e68aa6a-799e-47b8-9e3c-a987fd1606df)
 
 # FAQ

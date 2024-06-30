@@ -1,6 +1,9 @@
 # Changelog
 
 ## [Unreleased]
+## Added
+- add Perfect rarity to Artemis
+- add Perfect rarity to Hermes
 
 ## [0.0.4] - 2024-06-26
 
