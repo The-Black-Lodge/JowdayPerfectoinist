@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Jowday"
 name = "Perfectoinist"
-versionNumber = "0.0.5"
+versionNumber = "0.0.6"
 description = "Plugin for BoonBuddy. Adds a new rarity level called 'Perfect'."
 websiteUrl = "https://github.com/The-Black-Lodge/JowdayPerfectoinist"
 containsNsfwContent = false

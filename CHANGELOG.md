@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.0.6] - 2024-07-17
+
 ## Added
+
 - Rousing Reception (new Hera boon)
 
 ## [0.0.5] - 2024-06-30
@@ -37,7 +41,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.5...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.6...HEAD
+[0.0.6]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.5...0.0.6
 [0.0.5]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.4...0.0.5
 [0.0.4]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.2...0.0.3
