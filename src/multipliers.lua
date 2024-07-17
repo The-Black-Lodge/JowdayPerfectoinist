@@ -73,6 +73,7 @@ game.TraitData.MassiveKnockupBoon.RarityLevels.Perfect = { Multiplier = 8 / 3 } 
 game.TraitData.HeraWeaponBoon.RarityLevels.Perfect = { Multiplier = 2 }
 game.TraitData.HeraSpecialBoon.RarityLevels.Perfect = { Multiplier = 1.1 / 0.6 } -- 0.1/0.6 (ok but why)
 game.TraitData.HeraCastBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.SpawnCastDamageBoon.RarityLevels.Perfect = { Multiplier = 8/3 } -- boon added 7/16
 game.TraitData.HeraSprintBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.HeraManaBoon.RarityLevels.Perfect = { Multiplier = 0.5 } -- -0.1
 game.TraitData.CommonGlobalDamageBoon.RarityLevels.Perfect = { Multiplier = 3.5 }

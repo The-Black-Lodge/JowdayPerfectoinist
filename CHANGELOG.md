@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Added
+- Rousing Reception (new Hera boon)
 
 ## [0.0.5] - 2024-06-30
 
