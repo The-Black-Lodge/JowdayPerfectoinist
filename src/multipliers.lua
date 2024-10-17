@@ -93,7 +93,7 @@ game.TraitData.HeraSprintBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.HeraManaBoon.RarityLevels.Perfect = { Multiplier = 0.5 } -- -0.1
 game.TraitData.CommonGlobalDamageBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.DamageShareRetaliateBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
-game.TraitData.SwapBonusBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+--game.TraitData.SwapBonusBoon.RarityLevels.Perfect = { Multiplier = 3.5 } removed? 10/16
 game.TraitData.BoonDecayBoon.RarityLevels.Perfect = { Multiplier = 2.2 }
 game.TraitData.OmegaHeraProjectileBoon.RarityLevels.Perfect = { Multiplier = 2.0 }
 game.TraitData.DamageSharePotencyBoon.RarityLevels.Perfect = { Multiplier = 3.5 }

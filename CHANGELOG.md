@@ -6,6 +6,7 @@
 ## Changed
 - Updated multipliers for several boons
 - Removed temp fix for Grand Caldera
+- removed hera boon
 
 ## [0.0.6] - 2024-07-17
 
