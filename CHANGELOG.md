@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+# Fixed
+- graphics should now show up
 
 ## [0.1.0] - 2024-10-17
 
