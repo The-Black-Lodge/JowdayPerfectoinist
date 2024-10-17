@@ -13,7 +13,7 @@ sjson.hook(screenTextPath, function(data)
 end)
 
 -- guianimations
-local guiPath = rom.path.combine(rom.paths.Content, 'Game/Animations/GUIAnimations.sjson')
+local guiPath = rom.path.combine(rom.paths.Content, 'Game/Animations/GUI_HUD_VFX.sjson')
 
 -- boon backing
 local perfectBackPath = rom.path.combine(_PLUGIN.guid, 'BoonSlot_Perfect')

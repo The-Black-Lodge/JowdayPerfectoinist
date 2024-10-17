@@ -1,6 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+## Added
+- Artemis and Dionysus
+## Changed
+- Updated multipliers for several boons
+- Removed temp fix for Grand Caldera
 
 ## [0.0.6] - 2024-07-17
 

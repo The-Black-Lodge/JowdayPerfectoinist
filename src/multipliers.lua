@@ -12,7 +12,7 @@ game.TraitData.HighHealthOffenseBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.HealthRewardBonusBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
 game.TraitData.DoorHealToFullBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.WeakVulnerabilityBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
-game.TraitData.ManaBurstBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.ManaBurstBoon.RarityLevels.Perfect = { Multiplier = 2.25 } -- reduced on 10/16
 game.TraitData.FocusRawDamageBoon.RarityLevels.Perfect = { Multiplier = 15 / 5 } -- 2/5
 
 -- apollo
@@ -39,6 +39,14 @@ game.TraitData.DashOmegaBuffBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
 game.TraitData.SupportingFireBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.TimedCritVulnerabilityBoon.RarityLevels.Perfect = { Multiplier = 10 / 20 } -- -2/20
 
+-- athena
+game.TraitData.InvulnerabilityDashBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.RetaliateInvulnerabilityBoon.RarityLevels.Perfect = { Multiplier = 3 / 10 }
+game.TraitData.FocusLastStandBoon.RarityLevels.Perfect = { Multiplier = 25 / 150 }
+game.TraitData.AthenaProjectileBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.DeathDefianceRefillBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.InvulnerabilityCastBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+
 -- demeter
 game.TraitData.DemeterWeaponBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.DemeterSpecialBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
@@ -53,19 +61,26 @@ game.TraitData.SlowExAttackBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.CastAttachBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.RootDurationBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 
+-- dionysus
+game.TraitData.CastLobBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.HiddenMaxHealthBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
+game.TraitData.FirstHangoverBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.PowerDrinkBoon.RarityLevels.Perfect = { Multiplier = 5 / 10 }
+game.TraitData.CombatEncounterHealBoon.RarityLevels.Perfect = { Multiplier = 2.0 }
+game.TraitData.FogDamageBonusBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
+
 -- hephaestus
 game.TraitData.HephaestusWeaponBoon.RarityLevels.Perfect = { Multiplier = 2 / 12 }   -- -2/12
 game.TraitData.HephaestusSpecialBoon.RarityLevels.Perfect = { Multiplier = 4.5/16 } -- -3/16, then -2/16. let's meet halfway
 game.TraitData.HephaestusCastBoon.RarityLevels.Perfect = { Multiplier = 2.2 }        -- 0.2
-game.TraitData.HephaestusSprintBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
+game.TraitData.HephaestusSprintBoon.RarityLevels.Perfect = { Multiplier = 5/10 } -- changed 10/16
 game.TraitData.HephaestusManaBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 --game.TraitData.ChargeCounterBoon.RarityLevels.Perfect = { Multiplier = 2.25 } boon removed 6/26
 game.TraitData.AntiArmorBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.HeavyArmorBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.ArmorBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
-game.TraitData.EncounterStartDefenseBuffBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
+game.TraitData.EncounterStartDefenseBuffBoon.RarityLevels.Perfect = { Multiplier = 11/6 }
 game.TraitData.ManaToHealthBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
-game.TraitData.MassiveDamageBoon.RarityLevels.Heroic = { Multiplier = 2.5 } -- appears to have incorrect value in 6/26 patch. i shall fix
 game.TraitData.MassiveDamageBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.MassiveKnockupBoon.RarityLevels.Perfect = { Multiplier = 8 / 3 } -- 1/3
 
