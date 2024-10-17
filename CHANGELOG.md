@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.1] - 2024-10-17
+
 # Fixed
+
 - graphics should now show up
 
 ## [0.1.0] - 2024-10-17
@@ -55,7 +59,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.0...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.1...HEAD
+[0.1.1]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.6...0.1.0
 [0.0.6]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.5...0.0.6
 [0.0.5]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.4...0.0.5
