@@ -1,9 +1,15 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.0] - 2024-10-17
+
 ## Added
+
 - Artemis and Dionysus
+
 ## Changed
+
 - Updated multipliers for several boons
 - Removed temp fix for Grand Caldera
 - removed hera boon
@@ -47,7 +53,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.6...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.0...HEAD
+[0.1.0]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.6...0.1.0
 [0.0.6]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.5...0.0.6
 [0.0.5]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.4...0.0.5
 [0.0.4]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.3...0.0.4
