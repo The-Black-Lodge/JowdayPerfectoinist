@@ -1,10 +1,15 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.2] - 2025-02-20
+
 ## Added
+
 - all Ares boons added
 
 ## Updated
+
 - Aphrodite
   - Shameless Attitude
   - Broken Resolve
@@ -102,7 +107,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.1...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.2...HEAD
+[0.1.2]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.1...0.1.2
 [0.1.1]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.6...0.1.0
 [0.0.6]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.5...0.0.6
