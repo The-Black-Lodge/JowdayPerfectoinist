@@ -1,6 +1,49 @@
 # Changelog
 
 ## [Unreleased]
+## Added
+- all Ares boons added
+
+## Updated
+- Aphrodite
+  - Shameless Attitude
+  - Broken Resolve
+- Apollo
+  - Critical Miss (Removed)
+- Artemis
+  - Killing Stroke (Added)
+- Athena
+  - Righteous Pike (Added)
+- Demeter
+  - Plentiful Forage
+  - Steady Growth
+  - Snow Queen
+- Hephaestus
+  - Volcanic Flourish
+  - Smithy Rush
+  - Tough Gain
+  - Mint Condition
+- Hera
+  - Rousing Reception
+  - Extended Family
+  - Bridal Glow
+- Hermes
+  - Midnight Oil (Removed)
+  - Winner's Circle
+  - Stutter Step
+  - Split Second (Removed)
+  - Travel Deal (Added)
+  - Success Rate (Added)
+- Hestia
+  - Burnt Offering
+  - Hot Pot
+- Poseidon
+  - Geyser Spout
+  - Slippery Slope (Added)
+- Zeus
+  - ZeusExCastBoon (Removed - can't find real name)
+  - Ionic Gain
+  - Arc Flash
 
 ## [0.1.1] - 2024-10-17
 
