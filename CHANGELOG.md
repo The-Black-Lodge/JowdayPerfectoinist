@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.3] - 2025-06-17
+
 ## Updated
+
 - updated all multipliers per Unseen update
 - small bugfix to Apollo's Prominence Flare, which does not have a correct Heroic multiplier
 
@@ -110,7 +114,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.2...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.3...HEAD
+[0.1.3]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.2...0.1.3
 [0.1.2]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.1...0.1.2
 [0.1.1]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.0.6...0.1.0
