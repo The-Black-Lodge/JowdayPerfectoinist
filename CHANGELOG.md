@@ -1,6 +1,9 @@
 # Changelog
 
 ## [Unreleased]
+## Updated
+- updated all multipliers per Unseen update
+- small bugfix to Apollo's Prominence Flare, which does not have a correct Heroic multiplier
 
 ## [0.1.2] - 2025-02-20
 
