@@ -20,7 +20,6 @@ game.TraitData.FocusRawDamageBoon.RarityLevels.Perfect = { Multiplier = 15 / 5 }
 game.TraitData.ApolloWeaponBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.ApolloSpecialBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
 game.TraitData.ApolloCastBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
-game.TraitData.ApolloExCastBoon.RarityLevels.Heroic = { Multiplier = 2.5 } -- updated 6/17, temp bugfix
 game.TraitData.ApolloExCastBoon.RarityLevels.Perfect = { Multiplier = 3.5 } -- updated 6/17
 game.TraitData.ApolloSprintBoon.RarityLevels.Perfect = { Multiplier = 8 / 3 } -- 1/3
 game.TraitData.ApolloManaBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
@@ -49,7 +48,7 @@ game.TraitData.OmegaDelayedDamageBoon.RarityLevels.Perfect = { Multiplier = 240 
 
 -- artemis
 game.TraitData.InsideCastCritBoon.RarityLevels.Perfect = { Multiplier = 2.5 }
-game.TraitData.OmegaCastVolleyBoon.RarityLevels.Perfect = { Multiplier = 2.25 } -- update 6/17
+game.TraitData.OmegaCastVolleyBoon.RarityLevels.Perfect = { Multiplier = 100 / 50 } -- updated 7/2
 game.TraitData.HighHealthCritBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.CritBonusBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
 game.TraitData.DashOmegaBuffBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
@@ -140,7 +139,7 @@ game.TraitData.LuckyBoon.RarityLevels.Perfect = { Multiplier = 80 / 30 } -- adde
 
 -- hestia
 game.TraitData.HestiaWeaponBoon.RarityLevels.Perfect = { Multiplier = 3.5 } -- updated 6/17
-game.TraitData.HestiaSpecialBoon.RarityLevels.Perfect = { Multiplier = 3.5 } -- updated 6/17
+game.TraitData.HestiaSpecialBoon.RarityLevels.Perfect = { Multiplier = 85 / 35 } -- updated 7/2
 game.TraitData.HestiaCastBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.HestiaSprintBoon.RarityLevels.Perfect = { Multiplier = 3.5 } -- updated 6/17
 game.TraitData.HestiaManaBoon.RarityLevels.Perfect = { Multiplier = 3.5 }

@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Updated
+- updated multiplier changes per 7/2 patch
 
 ## [0.1.3] - 2025-06-17
 
