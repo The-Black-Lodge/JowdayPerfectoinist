@@ -93,7 +93,7 @@ game.TraitData.RandomBaseDamageBoon.RarityLevels.Perfect = { Multiplier = 3 } --
 
 -- hephaestus
 game.TraitData.HephaestusWeaponBoon.RarityLevels.Perfect = { Multiplier = 2 / 12 }   -- -2/12
-game.TraitData.HephaestusSpecialBoon.RarityLevels.Perfect = { Multiplier = 5 / 15 } -- updated 6/17
+game.TraitData.HephaestusSpecialBoon.RarityLevels.Perfect = { Multiplier = 2 / 7 } -- updated 6/17
 game.TraitData.HephaestusCastBoon.RarityLevels.Perfect = { Multiplier = 2.2 }        -- 0.2
 game.TraitData.HephaestusSprintBoon.RarityLevels.Perfect = { Multiplier = 5 / 10 } -- changed 10/16
 game.TraitData.HephaestusManaBoon.RarityLevels.Perfect = { Multiplier = 6 }
@@ -134,7 +134,7 @@ game.TraitData.SorcerySpeedBoon.RarityLevels.Perfect = { Multiplier = 1.7 } -- u
 -- game.TraitData.PerfectDodgeSlowBoon.RarityLevels.Perfect = { Multiplier = 3.5 } removed 2/19
 game.TraitData.TimedKillBuffBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.SprintShieldBoon.RarityLevels.Perfect = { Multiplier = 6 }
-game.TraitData.RestockBoon.RarityLevels.Perfect = { Multiplier = 3.5 } -- added 2/19
+game.TraitData.RestockBoon.RarityLevels.Perfect = { Multiplier = 6 } -- added 2/19
 game.TraitData.LuckyBoon.RarityLevels.Perfect = { Multiplier = 80 / 30 } -- added 2/19
 
 -- hestia
@@ -171,11 +171,11 @@ game.TraitData.PoseidonStatusBoon.RarityLevels.Perfect = { Multiplier = 2.25 } -
 -- zeus
 game.TraitData.ZeusWeaponBoon.RarityLevels.Perfect = { Multiplier = 2.8 } -- 0.4
 game.TraitData.ZeusSpecialBoon.RarityLevels.Perfect = { Multiplier = 2.5 } -- upated 6/17
-game.TraitData.ZeusCastBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
+game.TraitData.ZeusCastBoon.RarityLevels.Perfect = { Multiplier = 2.0 }
 -- game.TraitData.ZeusExCastBoon.RarityLevels.Perfect = { Multiplier = 3.5 } removed 2/19
 game.TraitData.ZeusSprintBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
 game.TraitData.ZeusManaBoon.RarityLevels.Perfect = { Multiplier = 5 / 10 } -- -1/10
-game.TraitData.ZeusManaBoltBoon.RarityLevels.Perfect = { Multiplier = 3.5 } -- updated 6/17
+game.TraitData.ZeusManaBoltBoon.RarityLevels.Perfect = { Multiplier = 8 / 3 } -- updated 6/17
 -- note - BoltRetaliateBoon has no rarity
 game.TraitData.CastAnywhereBoon.RarityLevels.Perfect = { Multiplier = 3 }
 game.TraitData.FocusLightningBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
