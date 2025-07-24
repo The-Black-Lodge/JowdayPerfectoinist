@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Updated
+- update values per 7/23 patch
 
 ## [0.1.4] - 2025-07-02
 
