@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.6] - 2025-08-22
+
 ## Added
+
 - target Divine Vengeance
 - clarify config text
 
@@ -129,7 +133,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.5...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.6...HEAD
+[0.1.6]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.5...0.1.6
 [0.1.5]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.4...0.1.5
 [0.1.4]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.3...0.1.4
 [0.1.3]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.2...0.1.3
