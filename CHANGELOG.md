@@ -1,6 +1,9 @@
 # Changelog
 
 ## [Unreleased]
+## Added
+- target Divine Vengeance
+- clarify config text
 
 ## [0.1.5] - 2025-07-24
 

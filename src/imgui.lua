@@ -14,7 +14,7 @@ function public.drawPerfectPlugin()
     end
     rom.ImGui.PopStyleColor()
 
-    value, checked = rom.ImGui.Checkbox("Allow Heroic boons to upgrade to Perfect (Sacrifice)",
+    value, checked = rom.ImGui.Checkbox("Allow Heroic upgrade to Perfect (Steady Growth, Sacrifice)",
         config.AllowPerfectSacrifice)
     if checked then
         config.AllowPerfectSacrifice = value

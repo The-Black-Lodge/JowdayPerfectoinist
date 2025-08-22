@@ -176,7 +176,8 @@ game.TraitData.ZeusCastBoon.RarityLevels.Perfect = { Multiplier = 2.0 }
 game.TraitData.ZeusSprintBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
 game.TraitData.ZeusManaBoon.RarityLevels.Perfect = { Multiplier = 5 / 10 } -- -1/10
 game.TraitData.ZeusManaBoltBoon.RarityLevels.Perfect = { Multiplier = 8 / 3 } -- updated 6/17
--- note - BoltRetaliateBoon has no rarity
+-- note - BoltRetaliateBoon inherits from BaseTrait, which has min/max
+game.TraitData.BoltRetaliateBoon.RarityLevels.Perfect = { MinMultiplier = 3.3, MaxMultiplier = 3.5 }
 game.TraitData.CastAnywhereBoon.RarityLevels.Perfect = { Multiplier = 3 }
 game.TraitData.FocusLightningBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.DoubleBoltBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
