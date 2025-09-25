@@ -76,7 +76,7 @@ game.TraitData.DemeterManaBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.CastNovaBoon.RarityLevels.Perfect = { Multiplier = 6 }          -- 1
 game.TraitData.PlantHealthBoon.RarityLevels.Perfect = { Multiplier = 2.0 } -- updated 2/19
 game.TraitData.BoonGrowthBoon.RarityLevels.Perfect = { Multiplier = 1/6 } -- updated 2/19
-game.TraitData.ReserveManaHitShieldBoon.RarityLevels.Perfect = { Multiplier = 1 / 25 } -- updated 6/17, best i can come up wtih
+game.TraitData.ReserveManaHitShieldBoon.RarityLevels.Perfect = { Multiplier = 1 / 25 } -- updated 6/17, best i can come up with
 game.TraitData.SlowExAttackBoon.RarityLevels.Perfect = { Multiplier = 2.5 } -- updated 6/17
 game.TraitData.CastAttachBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.RootDurationBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
@@ -104,7 +104,7 @@ game.TraitData.ArmorBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.EncounterStartDefenseBuffBoon.RarityLevels.Perfect = { Multiplier = 200 / 75 } -- updated 6/17
 game.TraitData.ManaToHealthBoon.RarityLevels.Perfect = { Multiplier = 2.25 } -- updated 6/17
 game.TraitData.MassiveDamageBoon.RarityLevels.Perfect = { Multiplier = 200 / 75 } -- updated 6/17
-game.TraitData.MassiveKnockupBoon.RarityLevels.Perfect = { Multiplier = 1.125 } -- updated 6/17
+game.TraitData.MassiveKnockupBoon.RarityLevels.Perfect = { Multiplier = 1.40 / 1.15 } -- updated 9/25
 
 -- hera
 game.TraitData.HeraWeaponBoon.RarityLevels.Perfect = { Multiplier = 2 }
@@ -155,7 +155,7 @@ game.TraitData.BurnStackBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 
 -- poseidon
 game.TraitData.PoseidonWeaponBoon.RarityLevels.Perfect = { Multiplier = 2.25 } -- updated 6/17
-game.TraitData.PoseidonSpecialBoon.RarityLevels.Perfect = { Multiplier = 2.67 } -- updated 6/17
+game.TraitData.PoseidonSpecialBoon.RarityLevels.Perfect = { Multiplier = 50 / 25 } -- updated 9/25
 game.TraitData.PoseidonCastBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.PoseidonExCastBoon.RarityLevels.Perfect = { Multiplier = 400 / 150 } -- updated 2/19
 game.TraitData.OmegaPoseidonProjectileBoon.RarityLevels.Perfect = { Multiplier = 3.5 } -- updated 6/17

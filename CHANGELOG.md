@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Updated
+- MassiveKnockupBoon, PoseidonSpecialBoon
 
 ## [0.1.6] - 2025-08-22
 
