@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.7] - 2025-09-26
+
 ## Updated
+
 - MassiveKnockupBoon, PoseidonSpecialBoon
 
 ## [0.1.6] - 2025-08-22
@@ -135,7 +139,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.6...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.7...HEAD
+[0.1.7]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.6...0.1.7
 [0.1.6]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.5...0.1.6
 [0.1.5]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.4...0.1.5
 [0.1.4]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.3...0.1.4
