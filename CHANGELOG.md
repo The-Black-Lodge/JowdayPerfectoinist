@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Fixed
+- make ui code more efficient
 
 ## [0.1.7] - 2025-09-26
 
