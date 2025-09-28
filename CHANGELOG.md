@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.8] - 2025-09-28
+
 ## Fixed
+
 - make ui code more efficient
 
 ## [0.1.7] - 2025-09-26
@@ -141,7 +145,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.7...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.8...HEAD
+[0.1.8]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.7...0.1.8
 [0.1.7]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.6...0.1.7
 [0.1.6]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.5...0.1.6
 [0.1.5]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.4...0.1.5
