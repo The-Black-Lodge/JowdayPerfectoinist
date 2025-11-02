@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Fixed
+- multipliers for Ares, Artemis, Hephaestus
 
 ## [0.1.8] - 2025-09-28
 

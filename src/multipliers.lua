@@ -35,7 +35,7 @@ game.TraitData.DoubleStrikeChanceBoon.RarityLevels.Perfect = { Multiplier = 3.5 
 game.TraitData.AresWeaponBoon.RarityLevels.Perfect = { Multiplier = 70 / 20 }
 game.TraitData.AresSpecialBoon.RarityLevels.Perfect = { Multiplier = 80 / 30 }
 game.TraitData.AresManaBoon.RarityLevels.Perfect = { Multiplier = 2 } -- updated 6/17
-game.TraitData.AresCastBoon.RarityLevels.Perfect = { Multiplier = 230 / 80 }
+game.TraitData.AresCastBoon.RarityLevels.Perfect = { Multiplier = 300 / 100 }
 game.TraitData.AresSprintBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.AresExCastBoon.RarityLevels.Perfect = { Multiplier = 80 / 30 }
 game.TraitData.RendBloodDropBoon.RarityLevels.Perfect = { Multiplier = 2 } -- updated 6/17
@@ -51,7 +51,7 @@ game.TraitData.InsideCastCritBoon.RarityLevels.Perfect = { Multiplier = 2.5 }
 game.TraitData.OmegaCastVolleyBoon.RarityLevels.Perfect = { Multiplier = 100 / 50 } -- updated 7/2
 game.TraitData.HighHealthCritBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.CritBonusBoon.RarityLevels.Perfect = { Multiplier = 2.67 }
-game.TraitData.DashOmegaBuffBoon.RarityLevels.Perfect = { Multiplier = 2.25 }
+game.TraitData.DashOmegaBuffBoon.RarityLevels.Perfect = { Multiplier = 2.0 }
 game.TraitData.SupportingFireBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.TimedCritVulnerabilityBoon.RarityLevels.Perfect = { Multiplier = 10 / 20 } -- -2/20
 game.TraitData.FocusCritBoon.RarityLevels.Perfect = { Multiplier = 2 }                    -- added 2/19
@@ -94,7 +94,7 @@ game.TraitData.RandomBaseDamageBoon.RarityLevels.Perfect = { Multiplier = 3 } --
 -- hephaestus
 game.TraitData.HephaestusWeaponBoon.RarityLevels.Perfect = { Multiplier = 2 / 12 }   -- -2/12
 game.TraitData.HephaestusSpecialBoon.RarityLevels.Perfect = { Multiplier = 2 / 7 } -- updated 6/17
-game.TraitData.HephaestusCastBoon.RarityLevels.Perfect = { Multiplier = 2.2 }        -- 0.2
+game.TraitData.HephaestusCastBoon.RarityLevels.Perfect = { Multiplier = 110 / 60 }
 game.TraitData.HephaestusSprintBoon.RarityLevels.Perfect = { Multiplier = 5 / 10 } -- changed 10/16
 game.TraitData.HephaestusManaBoon.RarityLevels.Perfect = { Multiplier = 6 }
 --game.TraitData.ChargeCounterBoon.RarityLevels.Perfect = { Multiplier = 2.25 } boon removed 6/26
