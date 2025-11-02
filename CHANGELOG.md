@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.9] - 2025-11-02
+
 ## Fixed
+
 - multipliers for Ares, Artemis, Hephaestus
 
 ## [0.1.8] - 2025-09-28
@@ -147,7 +151,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.8...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.9...HEAD
+[0.1.9]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.8...0.1.9
 [0.1.8]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.7...0.1.8
 [0.1.7]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.6...0.1.7
 [0.1.6]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.5...0.1.6
