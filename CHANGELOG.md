@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.11] - 2025-11-28
+
 ## Added
+
 - Zag's keepsake now rarifies up to Perfect
 
 ## [0.1.10] - 2025-11-28
@@ -159,7 +163,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.10...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.11...HEAD
+[0.1.11]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.10...0.1.11
 [0.1.10]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.9...0.1.10
 [0.1.9]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.8...0.1.9
 [0.1.8]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.7...0.1.8
