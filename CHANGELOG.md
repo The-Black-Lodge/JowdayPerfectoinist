@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Added
+- Bridal Glow now upgrades boons to Perfect instead of Heroic
 
 ## [0.1.9] - 2025-11-02
 

@@ -45,3 +45,28 @@ sjson.hook(guiPath, function(data)
         end
     end
 end)
+
+local languages = {
+    'en', 'es', 'fr', 'pt-BR', 'zh-CN', 'zh-TW', 'ja', 'ko', 
+    'de', 'it', 'ru', 'pl', 'tr', 'uk', 'el'
+}
+
+for _, lang in ipairs(languages) do
+    local traitTextPath = rom.path.combine(rom.paths.Content, 
+        string.format('Game/Text/%s/TraitText.%s.sjson', lang, lang))
+    
+    sjson.hook(traitTextPath, function(data)
+        for _, textEntry in ipairs(data.Texts or {}) do
+            if textEntry.Id == "BoonDecayBoon" then
+                if textEntry.Description then
+                    textEntry.Description = string.gsub(
+                        textEntry.Description, 
+                        "{%$Keywords%.Heroic}", 
+                        "{$Keywords.Perfect}"
+                    )
+                end
+                break
+            end
+        end
+    end)
+end
