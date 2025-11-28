@@ -34,13 +34,10 @@ local function on_ready()
     -- what to do when we are ready, but not re-do on reload.
     if config.enabled == false then return end
 
-    local package = rom.path.combine(_PLUGIN.plugins_data_mod_folder_path, _PLUGIN.guid)
-    modutil.mod.Path.Wrap("SetupMap", function(base)
-        game.LoadPackages({ Name = package })
-        base()
-    end)
+    game.Keywords["Perfect"] = "Boon_Perfect"
 
     import 'sjson.lua'
+    import 'wrap.lua'
 end
 
 local function on_reload()
