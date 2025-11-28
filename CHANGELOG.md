@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Added
+- Zag's keepsake now rarifies up to Perfect
 
 ## [0.1.10] - 2025-11-28
 

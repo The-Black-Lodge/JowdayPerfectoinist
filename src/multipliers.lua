@@ -183,3 +183,8 @@ game.TraitData.FocusLightningBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.DoubleBoltBoon.RarityLevels.Perfect = { Multiplier = 3.5 }
 game.TraitData.EchoExpirationBoon.RarityLevels.Perfect = { Multiplier = 80 / 30 } -- updated 6/17
 game.TraitData.LightningDebuffGeneratorBoon.RarityLevels.Perfect = { Multiplier = 2.25 } -- updated 6/17
+
+-- update RarifyKeepsake (Calling Card) to go up to perfect
+if game.TraitData.RarifyKeepsake and game.TraitData.RarifyKeepsake.RarityUpgradeData then
+    game.TraitData.RarifyKeepsake.RarityUpgradeData.MaxRarity = 6
+end
