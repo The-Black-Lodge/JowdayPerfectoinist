@@ -52,3 +52,10 @@ modutil.mod.Path.Context.Wrap.Static("GetReplacementTraits", function(traitNames
         return base(baseRarity, boonBuddy.BoonRarityUpgradeOrder)
     end)
 end)
+
+-- further fix for Bridal Glow
+modutil.mod.Path.Context.Wrap.Static("AddRarityToTraits", function(source, args)
+    modutil.mod.Path.Wrap("GetUpgradedRarity", function(base, baseRarity, rarityUpgradeOrder)
+        return base(baseRarity, boonBuddy.BoonRarityUpgradeOrder)
+    end)
+end)
