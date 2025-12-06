@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Fixed
+- hopefully resolve compatibility issue with Altar of Ashes (ty Grammarly)
 
 ## [0.1.11] - 2025-11-28
 

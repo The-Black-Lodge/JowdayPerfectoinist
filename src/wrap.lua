@@ -44,3 +44,18 @@ modutil.mod.Path.Wrap("AddRarityToTraits", function(base, source, args)
     return base(source, args)
 end)
 
+-- attempt to fix the altar of ashes conflict
+local mods = rom.mods
+local boonBuddy = mods['Jowday-BoonBuddy']
+modutil.mod.Path.Context.Wrap.Static("GetReplacementTraits", function(traitNames, onlyFromLootName)
+    modutil.mod.Path.Wrap("GetUpgradedRarity", function(base, baseRarity, rarityUpgradeOrder)
+        return base(baseRarity, boonBuddy.BoonRarityUpgradeOrder)
+    end)
+end)
+
+-- further fix for Bridal Glow
+modutil.mod.Path.Context.Wrap.Static("AddRarityToTraits", function(source, args)
+    modutil.mod.Path.Wrap("GetUpgradedRarity", function(base, baseRarity, rarityUpgradeOrder)
+        return base(baseRarity, boonBuddy.BoonRarityUpgradeOrder)
+    end)
+end)
