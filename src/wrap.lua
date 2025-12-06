@@ -47,8 +47,8 @@ end)
 -- attempt to fix the altar of ashes conflict
 local mods = rom.mods
 local boonBuddy = mods['Jowday-BoonBuddy']
-modutil.mod.Path.Context.Wrap.Static("GetReplacementTraits", function(base, traitNames, onlyFromLootName)
+modutil.mod.Path.Context.Wrap.Static("GetReplacementTraits", function(traitNames, onlyFromLootName)
     modutil.mod.Path.Wrap("GetUpgradedRarity", function(base, baseRarity, rarityUpgradeOrder)
-        base(baseRarity, boonBuddy.BoonRarityOrder)
+        return base(baseRarity, boonBuddy.BoonRarityUpgradeOrder)
     end)
 end)
