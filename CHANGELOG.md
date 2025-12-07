@@ -1,7 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.2.1] - 2025-12-07
+
 ## Fixed
+
 - Zag's keepsake fixed (again - ty Soot for report)
 
 ## [0.2.0] - 2025-12-06
@@ -171,7 +175,8 @@
 
 - first version!
 
-[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.2.0...HEAD
+[unreleased]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.2.1...HEAD
+[0.2.1]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.2.0...0.2.1
 [0.2.0]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.11...0.2.0
 [0.1.11]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.10...0.1.11
 [0.1.10]: https://github.com/The-Black-Lodge/JowdayPerfectoinist/compare/0.1.9...0.1.10
