@@ -59,3 +59,17 @@ modutil.mod.Path.Context.Wrap.Static("AddRarityToTraits", function(source, args)
         return base(baseRarity, boonBuddy.BoonRarityUpgradeOrder)
     end)
 end)
+
+-- fix for Rarify (Calling Card)
+modutil.mod.Path.Context.Wrap.Static("UpgradeChoiceScreenCheckRarifyButton", function(screen, button)
+    modutil.mod.Path.Wrap("GetUpgradedRarity", function(base, baseRarity, rarityUpgradeOrder)
+        return base(baseRarity, boonBuddy.BoonRarityUpgradeOrder)
+    end)
+end)
+
+-- also Rarify
+modutil.mod.Path.Context.Wrap.Static("TryUpgradeBoon", function(lootData, screen, button)
+    modutil.mod.Path.Wrap("GetUpgradedRarity", function(base, baseRarity, rarityUpgradeOrder)
+        return base(baseRarity, boonBuddy.BoonRarityUpgradeOrder)
+    end)
+end)

@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Fixed
+- Zag's keepsake fixed (again - ty Soot for report)
 
 ## [0.2.0] - 2025-12-06
 
