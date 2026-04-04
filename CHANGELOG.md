@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## Updated
+
+- Release workflow updated to Node24
+
 ## [0.2.2] - 2026-04-04
 
 ## Fixed
