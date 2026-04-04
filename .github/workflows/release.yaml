@@ -34,7 +34,7 @@ jobs:
           fi
 
       - name: Checkout files
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           lfs: true
 
