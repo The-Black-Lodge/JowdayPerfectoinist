@@ -188,3 +188,8 @@ game.TraitData.LightningDebuffGeneratorBoon.RarityLevels.Perfect = { Multiplier 
 if game.TraitData.RarifyKeepsake and game.TraitData.RarifyKeepsake.RarityUpgradeData then
     game.TraitData.RarifyKeepsake.RarityUpgradeData.MaxRarity = 6
 end
+
+-- update SellTraitData to go up to perfect
+if game.SellTraitData.RarityValues then
+    game.SellTraitData.RarityValues.Perfect = { Min = 330, Max = 350 }
+end

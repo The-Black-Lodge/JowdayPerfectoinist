@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+## Fixed
+- Purging a Perfect boon should now reward you accordingly (ty Grammarly)
 
 ## [0.2.1] - 2025-12-07
 
