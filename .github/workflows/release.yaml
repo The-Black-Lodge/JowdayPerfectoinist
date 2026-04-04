@@ -39,7 +39,7 @@ jobs:
           lfs: true
 
       - name: Rotate unreleased section in changelog
-        uses: baynezy/ChangeLogger.Action@1.2.4.10
+        uses: baynezy/ChangeLogger.Action@6e3ad430f08e13698bb01027a13ba4349b0143cc
         with:
           tag: ${{ inputs.tag }}
           log-path: ${{ env.changelog }}
