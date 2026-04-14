@@ -4,6 +4,11 @@
 
 ## Updated
 
+- Ares: AresManaBoon, AresCastBoon, RendBloodDropBoon, AresStatusDoubleDamageBoon
+- Hermes: HermesCastDiscountBoon
+
+## Updated
+
 - Release workflow updated to Node24
 
 ## [0.2.2] - 2026-04-04
